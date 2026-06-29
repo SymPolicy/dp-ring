@@ -33,3 +33,5 @@ coverage
 .cargo
 infra/compose/.data
 infra/compose/.secrets
+
+.ring/runtime/
