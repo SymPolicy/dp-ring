@@ -33,3 +33,6 @@ coverage
 .cargo
 infra/compose/.data
 infra/compose/.secrets
+
+# Private General-Auditor source evidence and local reports.
+/.general-auditor/local/
